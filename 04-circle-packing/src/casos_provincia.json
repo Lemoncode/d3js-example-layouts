@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Alicante",
+        "cases": 146364,
+        "code": "A",
+        "ccaa": "Comunitat  Valenciana"
+    },
+    {
+        "name": "Albacete",
+        "cases": 27785,
+        "code": "AB",
+        "ccaa": "Castilla-La Mancha"
+    },
+    {
+        "name": "Almer\u00eda",
+        "cases": 53813,
+        "code": "AL",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "\u00c1vila",
+        "cases": 11765,
+        "code": "AV",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "Barcelona",
+        "cases": 442022,
+        "code": "B",
+        "ccaa": "Catalunya"
+    },
+    {
+        "name": "Badajoz",
+        "cases": 49210,
+        "code": "BA",
+        "ccaa": "Extremadura"
+    },
+    {
+        "name": "Vizcaya",
+        "cases": 98567,
+        "code": "BI",
+        "ccaa": "Euskadi"
+    },
+    {
+        "name": "Burgos",
+        "cases": 34172,
+        "code": "BU",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "La Coru\u00f1a",
+        "cases": 55361,
+        "code": "C",
+        "ccaa": "Galicia"
+    },
+    {
+        "name": "C\u00e1diz",
+        "cases": 78364,
+        "code": "CA",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "C\u00e1ceres",
+        "cases": 25076,
+        "code": "CC",
+        "ccaa": "Extremadura"
+    },
+    {
+        "name": "Ceuta",
+        "cases": 5779,
+        "code": "CE",
+        "ccaa": "Ceuta"
+    },
+    {
+        "name": "C\u00f3rdoba",
+        "cases": 50996,
+        "code": "CO",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Ciudad Real",
+        "cases": 45560,
+        "code": "CR",
+        "ccaa": "Castilla-La Mancha"
+    },
+    {
+        "name": "Castell\u00f3n",
+        "cases": 40241,
+        "code": "CS",
+        "ccaa": "Comunitat  Valenciana"
+    },
+    {
+        "name": "Cuenca",
+        "cases": 20401,
+        "code": "CU",
+        "ccaa": "Castilla-La Mancha"
+    },
+    {
+        "name": "Las Palmas",
+        "cases": 29106,
+        "code": "GC",
+        "ccaa": "Canarias"
+    },
+    {
+        "name": "Girona",
+        "cases": 62316,
+        "code": "GI",
+        "ccaa": "Catalunya"
+    },
+    {
+        "name": "Granada",
+        "cases": 84624,
+        "code": "GR",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Guadalajara",
+        "cases": 25000,
+        "code": "GU",
+        "ccaa": "Castilla-La Mancha"
+    },
+    {
+        "name": "Huelva",
+        "cases": 29530,
+        "code": "H",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Huesca",
+        "cases": 18110,
+        "code": "HU",
+        "ccaa": "Arag\u00f3n"
+    },
+    {
+        "name": "Ja\u00e9n",
+        "cases": 47877,
+        "code": "J",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Lleida",
+        "cases": 42318,
+        "code": "L",
+        "ccaa": "Catalunya"
+    },
+    {
+        "name": "Le\u00f3n",
+        "cases": 37970,
+        "code": "LE",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "La Rioja",
+        "cases": 30342,
+        "code": "LO",
+        "ccaa": "La Rioja"
+    },
+    {
+        "name": "Lugo",
+        "cases": 12437,
+        "code": "LU",
+        "ccaa": "Galicia"
+    },
+    {
+        "name": "Madrid",
+        "cases": 703935,
+        "code": "M",
+        "ccaa": "Madrid"
+    },
+    {
+        "name": "M\u00e1laga",
+        "cases": 96802,
+        "code": "MA",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Melilla",
+        "cases": 8965,
+        "code": "ML",
+        "ccaa": "Melilla"
+    },
+    {
+        "name": "Murcia",
+        "cases": 111961,
+        "code": "MU",
+        "ccaa": "Murcia"
+    },
+    {
+        "name": "Navarra",
+        "cases": 61551,
+        "code": "NA",
+        "ccaa": "Navarra"
+    },
+    {
+        "name": "Asturias",
+        "cases": 51647,
+        "code": "O",
+        "ccaa": "Asturias"
+    },
+    {
+        "name": "Orense",
+        "cases": 15333,
+        "code": "OR",
+        "ccaa": "Galicia"
+    },
+    {
+        "name": "Palencia",
+        "cases": 18637,
+        "code": "P",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "Baleares",
+        "cases": 60010,
+        "code": "PM",
+        "ccaa": "Baleares"
+    },
+    {
+        "name": "Pontevedra",
+        "cases": 41681,
+        "code": "PO",
+        "ccaa": "Galicia"
+    },
+    {
+        "name": "Cantabria",
+        "cases": 29774,
+        "code": "S",
+        "ccaa": "Cantabria"
+    },
+    {
+        "name": "Salamanca",
+        "cases": 30208,
+        "code": "SA",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "Sevilla",
+        "cases": 122161,
+        "code": "SE",
+        "ccaa": "Andaluc\u00eda"
+    },
+    {
+        "name": "Segovia",
+        "cases": 15718,
+        "code": "SG",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "Soria",
+        "cases": 8287,
+        "code": "SO",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "Guip\u00fazcoa",
+        "cases": 67495,
+        "code": "SS",
+        "ccaa": "Euskadi"
+    },
+    {
+        "name": "Tarragona",
+        "cases": 49726,
+        "code": "T",
+        "ccaa": "Catalunya"
+    },
+    {
+        "name": "Teruel",
+        "cases": 13492,
+        "code": "TE",
+        "ccaa": "Arag\u00f3n"
+    },
+    {
+        "name": "Santa Cruz de Tenerife",
+        "cases": 24466,
+        "code": "TF",
+        "ccaa": "Canarias"
+    },
+    {
+        "name": "Toledo",
+        "cases": 70422,
+        "code": "TO",
+        "ccaa": "Castilla-La Mancha"
+    },
+    {
+        "name": "Valencia",
+        "cases": 204349,
+        "code": "V",
+        "ccaa": "Comunitat  Valenciana"
+    },
+    {
+        "name": "Valladolid",
+        "cases": 50609,
+        "code": "VA",
+        "ccaa": "Castilla y Le\u00f3n"
+    },
+    {
+        "name": "\u00c1lava",
+        "cases": 28219,
+        "code": "VI",
+        "ccaa": "Euskadi"
+    },
+    {
+        "name": "Zaragoza",
+        "cases": 89111,
+        "code": "Z",
+        "ccaa": "Arag\u00f3n"
+    },
+    {
+        "name": "Zamora",
+        "cases": 12753,
+        "code": "ZA",
+        "ccaa": "Castilla y Le\u00f3n"
+    }
+]
